@@ -1,0 +1,66 @@
+body{
+  background-color: lightgoldenrodyellow;
+  background-size: 100%;
+  max-width: fit-content;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.skewed{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 33rem;
+    width: 100%;
+    height: 100%;
+    background:rgb(5, 87, 5);
+    z-index: 0;
+    transform: skew(32deg);
+    transform-origin: top right;
+}
+
+h3{margin-top: 0px;
+margin-left: 15rem;
+padding-top: 0rem;
+border-top: 0rem;
+}
+
+#home{text-decoration: none;
+margin-left: 1.5rem;
+color: white;}
+
+a{
+  margin-left: 1.5rem;
+  color: white;
+}
+
+nav{
+  position: absolute;
+left: 35rem;
+top: 2rem;
+}
+
+img{
+  position: absolute;
+  left: 28rem;
+top: 120px;
+
+}
+
+#eyes{
+  margin-left: 7rem;
+  margin-top: 12rem;
+}
+
+p{width: 20rem;}
+h4{color:rgb(14, 143, 14);
+height: 20px;}
+h1{font-weight: bolder;}
+#two{font-weight: bolder;}
+
+button{background-color:rgb(14, 143, 14);
+border-color: rgb(14, 143, 14);
+color: white;
+height: 2.8rem;
+width: 7rem;
+border-radius: 15px;}

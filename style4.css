@@ -1,0 +1,102 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+nav{
+    margin-left: 17rem;
+    text-transform: uppercase;
+    align-content: stretch;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+#and{
+    text-decoration: none;
+    margin-left: 1.5rem;
+color: black;
+color: rgb(14, 143, 14);
+align-self: center;}
+
+a{
+  margin-left: 1.5rem;
+  color: black;
+  color: rgb(14, 143, 14);
+}
+
+.section{
+    display: grid;
+    column-gap: 10px;
+    row-gap: 15px;
+}
+
+.vl{
+    border-left: 6px solid  rgb(82, 161, 82);;
+    height: 80vh;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 50px;
+    border-radius: 5px;
+}
+
+#one{
+    background-color:rgb(82, 161, 82);
+    width: 25rem;
+    height: 20vh;
+    color: black;
+    position: absolute;
+    top: 70px;
+    left: 9.4rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 10%;
+}
+
+#two{
+    background-color: white;
+    border-color: 3px solid rgb(243, 233, 233);
+    width: 25rem;
+    height: 20vh;
+    color: black;
+    position: absolute;
+    top: 55vh;
+    left: 9.4rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 10%;
+}
+
+#quick{color:  rgb(14, 143, 14);}
+
+#three{
+    position: absolute;
+    top: 70px;
+    left: 42rem;
+    padding-bottom: 5px;
+    
+}
+
+#four{
+    background-color:white;
+    border-color: 3px solid rgb(243, 233, 233);
+    width: 25rem;
+    height: 20vh;
+    color: black;
+    position: absolute;
+    top: 32vh;
+    left: 42rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 10%;   
+}
+#five{
+    position: absolute;
+    top: 62vh;
+    left: 42rem;
+    padding-bottom: 5px;
+}

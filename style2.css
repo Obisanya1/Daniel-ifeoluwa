@@ -1,0 +1,51 @@
+body{
+    background-color: lightgoldenrodyellow;
+    background-size: 100%;
+    max-width: fit-content;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+
+#and{
+    text-decoration: none;
+    margin-left: 1.5rem;
+color: black;
+color: rgb(14, 143, 14);}
+
+a{
+  margin-left: 1.5rem;
+  color: black;
+  color: rgb(14, 143, 14);
+}
+
+section{
+    display: flex;
+}
+
+#two{
+    margin-top: 10rem;
+    margin-right: 2rem;
+}
+
+img{
+    margin-top: 5rem;
+    margin-left: 1rem;
+}
+
+p{
+    width: 20rem;
+}
+
+h3{
+    color:rgb(14, 143, 14);
+}
+
+h5{
+    color:rgb(14, 143, 14);
+}
+
+#one{
+    position: absolute;
+    margin-left: 20rem;
+    background-color: white;
+}

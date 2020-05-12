@@ -1,0 +1,96 @@
+nav{
+    margin-left: 20rem;
+    background-color: white;
+}
+
+#goat{
+    height: 20vh;
+    background-color:lightgoldenrodyellow;
+    height: 50vh; 
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+#and{
+    text-decoration: none;
+    margin-left: 1.5rem;
+color: black;
+color: rgb(14, 143, 14);;}
+
+a{
+  margin-left: 1.5rem;
+  color: black;
+  color: rgb(14, 143, 14);
+}
+
+section{
+    display: flex;
+    margin: 3rem;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+}
+
+.card{
+    background-color: white;
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.3);
+    height: 20rem;
+    width: 15rem;
+    padding-left: 20px;
+    border-radius: 15px;
+    border-color: rgb(14, 143, 14);
+}
+
+ul{
+    padding-left: 20px;
+    padding-bottom: 1rem;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+h2{
+    color: rgb(14, 143, 14);
+}
+
+h3{
+    padding-top: 5px;
+}
+
+#one{
+    color: rgb(14, 143, 14);
+}
+
+#dees{
+    border-radius: 25px;
+    height: 35px;
+    width: 100px;
+    background-color:lightgoldenrodyellow;
+}
+
+button{
+    border-radius: 25px;
+    height: 35px;
+    width: 100px;
+    background-color: rgb(14, 143, 14);
+    border-color:  rgb(14, 143, 14);;    
+}
+#sect{
+    margin-top: 8rem;
+}
+
+p{
+    width: 20rem;
+}
+
+#mouth{
+    margin-left: 1.5rem;
+}
+
+#nose{
+    display: flex;
+}
+
+img{
+    border-radius: 25px 25px 0px 25px;
+}
